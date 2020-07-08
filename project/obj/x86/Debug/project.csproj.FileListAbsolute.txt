@@ -1,0 +1,13 @@
+c:\users\shk\documents\visual studio 2010\Projects\project\project\bin\Debug\project.exe
+c:\users\shk\documents\visual studio 2010\Projects\project\project\bin\Debug\project.pdb
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Form1.resources
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Properties.Resources.resources
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.exe
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.pdb
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Form2.resources
+c:\users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.Form3.resources
+C:\Users\shk\documents\visual studio 2010\Projects\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\shk\documents\visual studio 2010\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\shk\documents\visual studio 2010\Projects\project\project\bin\Debug\Database1.sdf
+C:\Users\shk\documents\visual studio 2010\Projects\project\project\bin\Debug\Database2.sdf
